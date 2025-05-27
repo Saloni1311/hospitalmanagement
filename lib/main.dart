@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'login.dart';
-import 'otp_page.dart';
+import 'login/login.dart';
+import 'login/otp_page.dart';
 
 
 void main() {
